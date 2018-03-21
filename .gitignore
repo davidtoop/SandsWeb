@@ -1,0 +1,11 @@
+*.suo
+Backup/
+_UpgradeReport_Files/
+bin/
+obj/
+*.pidb
+*~
+*zip
+*swp
+*userprefs
+thumbs.db
